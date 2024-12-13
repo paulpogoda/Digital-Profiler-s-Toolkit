@@ -6,6 +6,7 @@
  - [Research](#research)
  - [Target Identification](#target-identification)
  - [Arrange Your Findings](#arrange)
+ - [Some thoughts about OSINT Design](#osint-design)
 
 ## Research
 ### UI
@@ -46,3 +47,8 @@ Names, nicknames, e-mails, phones — find your target's digital footprint and c
 ### Partially Free or Paid
 - [Maltego](). From $2,500/year. Free Community Edition is available
 - [Paliscope Explore]. Free Community Edition is available
+
+## OSINT Design
+### OPSEC
+### Research Alghorytn
+### Making a Profile
