@@ -9,10 +9,10 @@
 
 ## Research
 ### UI
-- [Open Measures](https://public.openmeasures.io/timeline?searchTerm=qanon&startDate=2023-12-11&endDate=2024-06-10&websites=gab&numberOf=10&interval=day&changepoint=false&esquery=content&hostRegex=true)
+- [Open Measures](https://public.openmeasures.io/timeline?searchTerm=qanon&startDate=2023-12-11&endDate=2024-06-10&websites=gab&numberOf=10&interval=day&changepoint=false&esquery=content&hostRegex=true). Ex-SMAT. 
 - [TGStat](https://tgstat.com/). From $20 monthly
 ### CLI
-- [SMAT](https://gitlab.com/openmeasures/smat-cli). Open Measures as CLI. Provides command line tools for getting data from the Social Media Analysis Toolkit (SMAT) as well as a library for interacting with SMAT from your own code.
+- [SMAT](https://gitlab.com/openmeasures/smat-cli). Provides command line tools for getting data from the Social Media Analysis Toolkit (SMAT) as well as a library for interacting with SMAT from your own code.
 ### GitLists
 - [OSINT Custom Search Engines](https://github.com/paulpogoda/OSINT-CSE)
 - [OSINT Resources/Tools by Country V 2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
@@ -28,16 +28,16 @@ Names, nicknames, e-mails, phones — find your target's digital footprint and c
 - [Intelligence-X](https://intelx.io/tools). From free to $20,000/year
 - [Himera Search](). For Russia. Pay what you get
   
+#### TG Bots (mostly for Russia and CIS countries)
+- []()
+- []()
+- []()
+
 ### CLI
 - [Sherlock](https://github.com/sherlock-project/sherlock)
 - [GoSearch](https://github.com/paulpogoda/gosearch). Sherlock analog in Go. Tool development in progress
 - [WhatsMyName](https://github.com/WebBreacher/WhatsMyName). I use [this](https://github.com/C3n7ral051nt4g3ncy/WhatsMyName-Python) version
 - [GHunt](https://github.com/mxrch/GHunt). Brilliant for Google account research
-
-### TG Bots (mostly for Russia and CIS countries)
-- []()
-- []()
-- []()
 
 ## Arrange
 ### Free or Partially Free
