@@ -13,13 +13,13 @@ Tools useful in profiling, research and digital investigations. Working and nece
 ## Target Identification
 ### UI
 - [OSINT Industries](). The best one available at the moment for free (free for investigators and police)
-- [WhatsMyName]()
-- [Intelligence-X]()
+- [WhatsMyName](https://whatsmyname.app)
+- [Intelligence-X](https://intelx.io/tools)
   
 ### CLI
-- [Sherlock]()
+- [Sherlock](https://github.com/sherlock-project/sherlock)
 - [GoSearch](https://github.com/paulpogoda/gosearch). Sherlock analog in Go
-- [WhatsMyName]()
+- [WhatsMyName](https://github.com/WebBreacher/WhatsMyName). Use [this](https://github.com/C3n7ral051nt4g3ncy/WhatsMyName-Python) version 
 
 ## Arrange
 - [Obsidian]()
