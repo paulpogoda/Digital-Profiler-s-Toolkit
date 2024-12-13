@@ -1,5 +1,6 @@
 # Digital Profiler's Toolkit
-Tools useful in profiling, research and digital investigations. Working and necessary only. All are tested in real cases, mostly free. UI an CLI tools separated. 
+### Toolpack useful in profiling, research and digital investigations built for me and my trainees. Working and necessary only. All are tested in real cases, mostly free. UI an CLI tools separated. 
+### For additional purposes use [Bellingcat’s Online Open Source Investigation Toolkit](https://bellingcat.gitbook.io/toolkit) 
 
 ## Table of content:
  - [Research](#research)
