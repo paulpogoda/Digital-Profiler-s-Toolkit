@@ -47,7 +47,7 @@ Names, nicknames, e-mails, phones — find your target's digital footprint and c
 - [Osintracker](https://www.osintracker.com)
 ### Partially Free or Paid
 - [Maltego](). From $2,500/year. Free Community Edition is available
-- [Paliscope Explore]. Free Community Edition is available
+- [Paliscope Explore](https://www.paliscope.com/explore/). Free Community Edition is available
 
 ## OSINT Design
 ### OPSEC
