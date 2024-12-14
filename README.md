@@ -38,6 +38,7 @@ Names, nicknames, e-mails, phones — find your target's digital footprint and c
 - [Sherlock](https://github.com/sherlock-project/sherlock)
 - [GoSearch](https://github.com/paulpogoda/gosearch). Sherlock analog in Go. Tool development in progress
 - [WhatsMyName](https://github.com/WebBreacher/WhatsMyName). I use [this](https://github.com/C3n7ral051nt4g3ncy/WhatsMyName-Python) version
+- [BlackBird](https://github.com/p1ngul1n0/blackbird). Searches for user accounts by username or email. It features WhatsMyName integration
 - [GHunt](https://github.com/mxrch/GHunt). Brilliant for Google account research
 
 ## Arrange
