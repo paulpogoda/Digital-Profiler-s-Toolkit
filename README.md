@@ -52,5 +52,6 @@ Names, nicknames, e-mails, phones — find your target's digital footprint and c
 
 ## OSINT Design
 ### OPSEC
+First of all, you have to think about operation security. It is not only about your security but also about all the people you work with and accidentally disclosing your target information without your permission. The main task is not to install tons of software on your machine but to change your behavior from insecure to secure. Here's the link to my webinar on Personal Cybersecurity Basics. 
 ### Research Alghorytn
 ### Making a Profile
