@@ -33,13 +33,18 @@ Names, nicknames, e-mails, phones — find your target's digital footprint and c
 - [Himera Search](). For Russia. Pay what you get
   
 #### TG Bots (mostly for Russia and CIS countries)
-- []()
-- []()
-- []()
+Remember that TG-bots are regularry banned, so you probably have to create your own list and keep it up to date. Subscribe on bot channels to get the links on new bots/
+- [Bot catalogue](https://t.me/AllOSINTrobot)
+<img width="592" alt="Снимок экрана 2024-12-15 в 12 08 53" src="https://github.com/user-attachments/assets/d9d2095a-fbf6-483d-af4a-e4ea0d3bf47e" />
+
+- [Leak OSINT](https://t.me/LeakOsintOpen_bot?start=EZXBaVa). Paid
+- [VK History Robot](https://t.me/VKHistoryRobot). One love
+- [Maigret](). Username checker. Based on the Maigret CLI tool (CLI Tool is better, cause bot is unstable)
 
 ### CLI
 - [Sherlock](https://github.com/sherlock-project/sherlock)
 - [GoSearch](https://github.com/paulpogoda/gosearch). Sherlock analog in Go. Tool development in progress
+- [Maigret](https://github.com/soxoj/maigret/blob/main/README.md)
 - [WhatsMyName](https://github.com/WebBreacher/WhatsMyName). I use [this](https://github.com/C3n7ral051nt4g3ncy/WhatsMyName-Python) version
 - [BlackBird](https://github.com/p1ngul1n0/blackbird). Searches for user accounts by username or email. It features WhatsMyName integration
 - [GHunt](https://github.com/mxrch/GHunt). Brilliant for Google account research
