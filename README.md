@@ -31,15 +31,7 @@ Names, nicknames, e-mails, phones — find your target's digital footprint and c
 - [Epieos](https://epieos.com). From free to 1 euro for full-access request
 - [Intelligence-X](https://intelx.io/tools). From free to $20,000/year
 - [Himera Search](). For Russia. Pay what you get
-  
-#### TG Bots (mostly for Russia and CIS countries)
-Remember that TG-bots are regularry banned, so you probably have to create your own list and keep it up to date. Subscribe on bot channels to get the links on new bots/
-- [Bot catalogue](https://t.me/AllOSINTrobot)
-<img width="592" alt="Снимок экрана 2024-12-15 в 12 08 53" src="https://github.com/user-attachments/assets/d9d2095a-fbf6-483d-af4a-e4ea0d3bf47e" />
-
-- [Leak OSINT](https://t.me/LeakOsintOpen_bot?start=EZXBaVa). Paid
-- [VK History Robot](https://t.me/VKHistoryRobot). One love
-- [Maigret](). Username checker. Based on the Maigret CLI tool (CLI Tool is better, cause bot is unstable)
+- Telegram OSINT [Bot catalogue](https://t.me/AllOSINTrobot)
 
 ### CLI
 - [Sherlock](https://github.com/sherlock-project/sherlock)
