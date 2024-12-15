@@ -1,5 +1,5 @@
 # Digital Profiler's Toolkit
-<img src="[LINK-TO-THE-FLAG.PNG](https://private-user-images.githubusercontent.com/170966925/395842597-7ba0d589-959d-4fab-8d46-018cdc884bd5.png" alt="coverpic"/>
+![profiling](https://github.com/user-attachments/assets/e653f605-121a-4825-b5c8-37b3251f1226)
 
 ### This toolkit, useful for profiling, research, and digital investigations, was built for me and my trainees. It contains only working and necessary tools. All are tested in real cases and are mostly free. The UI and CLI tools are separated.
 ### For additional purposes use [Bellingcat’s Online Open Source Investigation Toolkit](https://bellingcat.gitbook.io/toolkit).
