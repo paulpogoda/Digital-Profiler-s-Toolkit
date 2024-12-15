@@ -1,7 +1,9 @@
 # Digital Profiler's Toolkit
-### This toolkit useful in profiling, research and digital investigations built for me and my trainees. Working and necessary tools only. All are tested in real cases, mostly free. UI an CLI tools separated. 
-### For additional purposes use [Bellingcat’s Online Open Source Investigation Toolkit](https://bellingcat.gitbook.io/toolkit) 
-### Do you want to have a piece of training with me? Fell fre to send request on my [LinkedIn Service Page](https://www.linkedin.com/services/page/62913232ba4bb59a24/).
+<img src="LINK-TO-THE-FLAG.PNG" alt="coverpic"/>
+
+### This toolkit, useful for profiling, research, and digital investigations, was built for me and my trainees. It contains only working and necessary tools. All are tested in real cases and are mostly free. The UI and CLI tools are separated.
+### For additional purposes use [Bellingcat’s Online Open Source Investigation Toolkit](https://bellingcat.gitbook.io/toolkit).
+### Do you want to have a piece of training with me? Feel free to send a request on my [LinkedIn Service Page](https://www.linkedin.com/services/page/62913232ba4bb59a24/).
 
 ## Table of content:
  - [Research](#research)
@@ -52,6 +54,10 @@ Names, nicknames, e-mails, phones — find your target's digital footprint and c
 
 ## OSINT Design
 ### OPSEC
-First of all, you have to think about operation security. It is not only about your security but also about all the people you work with and accidentally disclosing your target information without your permission. The main task is not to install tons of software on your machine but to change your behavior from insecure to secure. Here's the link to my webinar on Personal Cybersecurity Basics. 
+First of all, you have to think about operation security. It is not only about your security but also about all the people you work with and accidentally disclosing your target information without your permission. The main task is not to install tons of software on your machine but to change your behavior from insecure to secure. 
+
+Here's the [link](https://provereno.media/blog/library/pavel-bannikov-osnovy-personalnoj-kiberbezopasnosti/) to my webinar on Personal Cybersecurity Basics (in Russian). Otherwise see [Aidan Rainey's webinar](https://drive.google.com/file/d/1gIU7w_qmU1TdYD-41l4gcBjZlVCNTEVv/view) (in English). Better see both, they're different. 
+
+See also [this](https://github.com/Scrut1ny/OpSec-Guide) OpSec-Guide on GitHub. 
 ### Research Alghorytn
 ### Making a Profile
