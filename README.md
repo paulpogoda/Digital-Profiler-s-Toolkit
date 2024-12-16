@@ -13,16 +13,20 @@
 
 ## Research
 ### UI
-- [Open Measures](https://public.openmeasures.io/timeline?searchTerm=qanon&startDate=2023-12-11&endDate=2024-06-10&websites=gab&numberOf=10&interval=day&changepoint=false&esquery=content&hostRegex=true). Ex-SMAT. 
-- [TGStat](https://tgstat.com/). From $20 monthly
+- [Open Measures](https://public.openmeasures.io/timeline?searchTerm=qanon&startDate=2023-12-11&endDate=2024-06-10&websites=gab&numberOf=10&interval=day&changepoint=false&esquery=content&hostRegex=true). Ex-SMAT. Research in the list of sources.
+- [TGStat](https://tgstat.com/). From $20 monthly. Limited free options
+- [Perplexity]()
+
 ### CLI
 - [SMAT](https://gitlab.com/openmeasures/smat-cli). Provides command line tools for getting data from the Social Media Analysis Toolkit (SMAT) as well as a library for interacting with SMAT from your own code.
+
 ### GitLists
 - [OSINT Custom Search Engines](https://github.com/paulpogoda/OSINT-CSE)
 - [OSINT Resources/Tools by Country V 2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
 
 ## Target Identification
-Names, nicknames, e-mails, phones — find your target's digital footprint and connections
+Names, nicknames, e-mails, phones, cryptowallets — find your target's digital footprint and connections
+
 ### UI
 - [OSINT Industries](). The best UI available at the moment for free for investigators and police
 - [OnChain Industries](https://www.onchain.industries). From free to $10
@@ -40,6 +44,9 @@ Names, nicknames, e-mails, phones — find your target's digital footprint and c
 - [WhatsMyName](https://github.com/WebBreacher/WhatsMyName). I use [this](https://github.com/C3n7ral051nt4g3ncy/WhatsMyName-Python) version
 - [BlackBird](https://github.com/p1ngul1n0/blackbird). Searches for user accounts by username or email. It features WhatsMyName integration
 - [GHunt](https://github.com/mxrch/GHunt). Brilliant for Google account research
+- [theHarvester](https://github.com/laramies/theHarvester)
+- [creepycrawler](https://github.com/paulpogoda/creepyCrawler)
+
 
 ## Arrange
 ### Free or Partially Free
@@ -49,12 +56,13 @@ Names, nicknames, e-mails, phones — find your target's digital footprint and c
 - [Maltego](). From $2,500/year. Free Community Edition is available
 - [Paliscope Explore](https://www.paliscope.com/explore/). Free Community Edition is available
 
-## OSINT Design
+## OSINT Profile Design
 ### OPSEC
 First of all, you have to think about operation security. It is not only about your security but also about all the people you work with and accidentally disclosing your target information without your permission. The main task is not to install tons of software on your machine but to change your behavior from insecure to secure. 
 
 Here's the [link](https://provereno.media/blog/library/pavel-bannikov-osnovy-personalnoj-kiberbezopasnosti/) to my webinar on Personal Cybersecurity Basics (in Russian). Otherwise see [Aidan Rainey's webinar](https://drive.google.com/file/d/1gIU7w_qmU1TdYD-41l4gcBjZlVCNTEVv/view) (in English). Better see both, they're different. 
 
 See also [this](https://github.com/Scrut1ny/OpSec-Guide) OpSec-Guide on GitHub. 
-### Research Alghorytn
+### Research Alghorytm
+
 ### Making a Profile
