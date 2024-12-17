@@ -2,7 +2,7 @@
 ![profiling](https://github.com/user-attachments/assets/e653f605-121a-4825-b5c8-37b3251f1226)
 
 ### This toolkit, useful for profiling, research, and digital investigations, was built for me and my trainees (profilers, researchers and journalists). It contains only working and necessary tools. All are tested in real cases and are mostly free. The UI and CLI tools are separated.
-### For additional purposes use [Bellingcat’s Online Open Source Investigation Toolkit](https://bellingcat.gitbook.io/toolkit).
+### For additional purposes use [Bellingcat’s Online Open Source Investigation Toolkit](https://bellingcat.gitbook.io/toolkit). It is awesome! 
 ### Do you want to have a piece of training with me? Feel free to send a request on my [LinkedIn Service Page](https://www.linkedin.com/services/page/62913232ba4bb59a24/) in Russian or English.
 
 ## Table of content:
