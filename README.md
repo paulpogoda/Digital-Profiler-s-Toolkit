@@ -77,3 +77,4 @@ See also [this](https://github.com/Scrut1ny/OpSec-Guide) OpSec-Guide on GitHub.
 ![1690960224_659397237](https://github.com/user-attachments/assets/a434b09c-07a9-4c0c-bf6c-bf05235177c7)
 
 Read: [How to find information on anyone: The best OSINT tools for people search](https://molfar.com/en/blog/how-to-find-information-on-anyone-the-best-osint-tools-for-people-search)
+Look at: [OSINT Framework](https://osintframework.com)
