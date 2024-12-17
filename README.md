@@ -40,7 +40,7 @@ Names, nicknames, e-mails, phones, cryptowallets — find your target's digital 
 ### CLI
 - [Sherlock](https://github.com/sherlock-project/sherlock)
 - [GoSearch](https://github.com/paulpogoda/gosearch). Sherlock analog in Go. Tool development in progress
-- [Maigret](https://github.com/soxoj/maigret/blob/main/README.md)
+- [Maigret](https://github.com/soxoj/maigret/blob/main/README.md). CLI is better than official TG-bot, local web-interface available and it is not bad
 - [WhatsMyName](https://github.com/WebBreacher/WhatsMyName). I use [this](https://github.com/C3n7ral051nt4g3ncy/WhatsMyName-Python) version
 - [BlackBird](https://github.com/p1ngul1n0/blackbird). Searches for user accounts by username or email. It features WhatsMyName integration
 - [GHunt](https://github.com/mxrch/GHunt). Brilliant for Google account research
@@ -50,8 +50,8 @@ Names, nicknames, e-mails, phones, cryptowallets — find your target's digital 
 
 ## Arrange
 ### Free or Partially Free
-- [Obsidian](https://obsidian.md)
-- [Osintracker](https://www.osintracker.com)
+- [Obsidian](https://obsidian.md). Customizable tool from Micah Hoffman aka [@webbreacher](https://github.com/WebBreacher), very good interface.
+- [Osintracker](https://www.osintracker.com). Run in browser. Don't forget to backup your findings
 ### Partially Free or Paid
 - [Maltego](). From $2,500/year. Free Community Edition is available
 - [Paliscope Explore](https://www.paliscope.com/explore/). Free Community Edition is available
