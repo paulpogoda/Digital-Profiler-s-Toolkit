@@ -18,9 +18,14 @@
 - [Open Measures](https://public.openmeasures.io/timeline?searchTerm=qanon&startDate=2023-12-11&endDate=2024-06-10&websites=gab&numberOf=10&interval=day&changepoint=false&esquery=content&hostRegex=true). Ex-SMAT. Research in the list of sources
 - [TGStat](https://tgstat.com/). From $20 monthly. Limited free options
 - [Perplexity](https://www.perplexity.ai). Very good for deep research
+- [Domain Digger](https://github.com/wotschofsky/domain-digger)
+- [Whoxy](https://www.whoxy.com)
+- [American Registry for Internet Numbers](https://www.arin.net)
 
 ### CLI
 - [SMAT](https://gitlab.com/openmeasures/smat-cli). Provides command line tools for getting data from the Social Media Analysis Toolkit (SMAT)
+- [theHarvester](https://github.com/laramies/theHarvester). You should add APIs to make this tool useful
+- [creepycrawler](https://github.com/paulpogoda/creepyCrawler). OSINT tool to crawl a site and extract useful recon info
 
 ### GitLists
 - [OSINT Custom Search Engines](https://github.com/paulpogoda/OSINT-CSE)
@@ -46,9 +51,6 @@
 - [WhatsMyName](https://github.com/WebBreacher/WhatsMyName). I use [this](https://github.com/C3n7ral051nt4g3ncy/WhatsMyName-Python) version
 - [BlackBird](https://github.com/p1ngul1n0/blackbird). Searches for user accounts by username or email. It features WhatsMyName integration
 - [GHunt](https://github.com/mxrch/GHunt). Brilliant for Google account research
-- [theHarvester](https://github.com/laramies/theHarvester). You should add APIs to make this tool useful
-- [creepycrawler](https://github.com/paulpogoda/creepyCrawler). OSINT tool to crawl a site and extract useful recon info
-
 
 ## Arrange
 **Where to keep your findings and/or create a final report**
