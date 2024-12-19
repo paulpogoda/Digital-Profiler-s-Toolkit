@@ -42,7 +42,10 @@
 - [Epieos](https://epieos.com). From free to 1 euro for a full-access request
 - [Intelligence-X](https://intelx.io/tools). From free to $20,000/year
 - [Himera Search](). For Russia. Pay what you get (about $1-2 for a detailed report)
-- Telegram OSINT [Bot catalogue](https://t.me/AllOSINTrobot)
+#### Telegram
+- [VkHistoryRobot](https://t.me/VKHistoryRobo). Free
+- [ShaitanMachine Bot](https://t.me/shaytanmachineata_bot ). Paid
+- [Telegram OSINT Bot catalogue](https://t.me/AllOSINTrobot). Search for the bots you need
 
 ### CLI
 - [Sherlock](https://github.com/sherlock-project/sherlock)
