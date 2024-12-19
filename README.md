@@ -67,8 +67,8 @@
 Before you start, you have to think about operation security. It is about your security and all the people you work with and accidentally disclosing your target information without your permission. The main task is not to install tons of software on your machine but to change your behavior from insecure to secure. 
 
 - Here's the [link](https://provereno.media/blog/library/pavel-bannikov-osnovy-personalnoj-kiberbezopasnosti/) to my webinar on Personal Cybersecurity Basics (in Russian). 
-- [Introduction to OSINT](https://www.myosint.training/courses/introduction-to-osint) by Micah Hoffman and Griffin Glynn | Get a certificate!
-- Otherwise, see [Aidan Rainey's webinar](https://drive.google.com/file/d/1gIU7w_qmU1TdYD-41l4gcBjZlVCNTEVv/view) (in English). You better see both, they're different. 
+- [Introduction to OSINT](https://www.myosint.training/courses/introduction-to-osint) by Micah Hoffman and Griffin Glynn | Get a certificate! (In English)
+- Otherwise, see [Aidan Rainey's webinar](https://drive.google.com/file/d/1gIU7w_qmU1TdYD-41l4gcBjZlVCNTEVv/view) (in English). 
 - See also [this](https://github.com/Scrut1ny/OpSec-Guide) OpSec-Guide on GitHub. 
 - [Step-by-step guide to building a custom machine for OSINT activities](https://github.com/Minotaur-OPSEC/OSINTMachineGuide)
 
