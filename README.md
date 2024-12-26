@@ -18,6 +18,7 @@
 - [Open Measures](https://public.openmeasures.io/timeline?searchTerm=qanon&startDate=2023-12-11&endDate=2024-06-10&websites=gab&numberOf=10&interval=day&changepoint=false&esquery=content&hostRegex=true). Ex-SMAT. Research in the list of sources
 - [TGStat](https://tgstat.com/). From $20 monthly. Limited free options
 - [Perplexity](https://www.perplexity.ai). Very good for deep research
+- [The Information Laundromat](https://informationlaundromat.com). Developed for propaganda research, but good in producing OSINT leads regarding the construction, sponsorship, and social media linkages of websites, regardless of their content's provenance
 - [Domain Digger](https://github.com/wotschofsky/domain-digger)
 - [Whoxy](https://www.whoxy.com)
 - [American Registry for Internet Numbers](https://www.arin.net)
