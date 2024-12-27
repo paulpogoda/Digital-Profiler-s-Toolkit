@@ -36,7 +36,7 @@
 **Names, nicknames, e-mails, phones, crypto wallets — find your target's digital footprint and connections**
 
 ### UI
-- [OSINT Industries](). The best UI available at the moment for free for investigators and police
+- [OSINT Industries](https://app.osint.industries). The best UI available at the moment for free for investigators and police
 - [OnChain Industries](https://www.onchain.industries). From free to $10
 - [User Search AI](https://usersearch.ai). Free is not bad. $19 monthly subscription
 - [WhatsMyName](https://whatsmyname.app). UI includes 2 CSE. 403 with some VPNs (unveil or use Tor in this case)
