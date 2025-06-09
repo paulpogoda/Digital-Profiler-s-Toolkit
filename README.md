@@ -4,6 +4,7 @@
 ### This toolkit, useful for profiling, research, and digital investigations, was built for me and my trainees (profilers, fact-checkers, researchers and journalists). It contains only working and necessary tools. All are tested in real cases and are mostly free. The UI and CLI tools are separated.
 ### :eye_speech_bubble: For additional purposes use [Bellingcat’s Online Open Source Investigation Toolkit](https://bellingcat.gitbook.io/toolkit). It is awesome! 
 ### :vulcan_salute: Do you want to have a piece of training from me? Feel free to send a request in Russian or English on my [LinkedIn Service Page](https://www.linkedin.com/services/page/62913232ba4bb59a24/). Please find some free training and webinars in the OSINT Design section of this kit.
+### :vulcan_salute: Get more tools and educational videos in Russian on [Provereno's Patreon](https://www.patreon.com/c/provereno).
 
 ## Table of contents:
  - [Research](#research)
