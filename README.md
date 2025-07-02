@@ -101,3 +101,4 @@ A profile is always built around a specific task. When you're investigating a cr
 ![OSINTF Statement of Principles Inforgraphic](https://github.com/user-attachments/assets/b8f7808b-8cb6-4a4c-8d97-16e5c0721d3c)
 
 - The Intelligence Community Standard (ICS) offers a framework designed to ensure consistency, accuracy, and professionalism across the U.S. Intelligence Community. It is clear and acceptable for use as guidance for OSINTers worldwide. ICS provides clear guidelines for processes, methodologies, and workflows, enabling intelligence professionals to produce reliable and credible outputs. For example, [ICS 206–01, effective December 2, 2024](https://www.dni.gov/files/documents/ICD/ICS-206-01.pdf), focuses on the proper citation and referencing of Publicly Available Information (PAI), Commercially Available Information (CAI), and Open Source Intelligence (OSINT)
+- [UK OSINT Community Code of Conduct](https://www.osint.uk/community-code-of-conduct)
