@@ -44,6 +44,7 @@
 - [Epieos](https://epieos.com). From free to 1 euro for a full-access request
 - [Intelligence-X](https://intelx.io/tools). From free to $20,000/year
 - [Himera Search](). For Russia. Pay what you get (about $1-2 for a detailed report)
+- [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools). Free cybercrime/infostealer intelligence toolset
 #### Telegram
 - [VkHistoryRobot](https://t.me/VKHistoryRobo). Free
 - [ShaitanMachine Bot](https://t.me/shaytanmachineata_bot ). Paid
