@@ -45,6 +45,7 @@
 - [Intelligence-X](https://intelx.io/tools). From free to $20,000/year
 - [Himera Search](). For Russia. Pay what you get (about $1-2 for a detailed report)
 - [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools). Free cybercrime/infostealer intelligence toolset
+- [Opsis](https://useopsis.com). Finds accounts linked to an email, username or domain. 3 free searches/month, paid from $14.99/mo
 #### Telegram
 - [VkHistoryRobot](https://t.me/VKHistoryRobo). Free
 - [ShaitanMachine Bot](https://t.me/shaytanmachineata_bot ). Paid
